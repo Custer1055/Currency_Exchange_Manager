@@ -1,0 +1,7 @@
+C:\Advancement\WBS_WebAPI\CurrencyExchangeManager\obj\Debug\net8.0\CurrencyExchangeManager.csproj.AssemblyReference.cache
+C:\Advancement\WBS_WebAPI\CurrencyExchangeManager\obj\Debug\net8.0\CurrencyExchangeManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Advancement\WBS_WebAPI\CurrencyExchangeManager\obj\Debug\net8.0\CurrencyExchangeManager.AssemblyInfoInputs.cache
+C:\Advancement\WBS_WebAPI\CurrencyExchangeManager\obj\Debug\net8.0\CurrencyExchangeManager.AssemblyInfo.cs
+C:\Advancement\WBS_WebAPI\CurrencyExchangeManager\obj\Debug\net8.0\CurrencyExchangeManager.csproj.CoreCompileInputs.cache
+C:\Advancement\WBS_WebAPI\CurrencyExchangeManager\obj\Debug\net8.0\CurrencyExchangeManager.MvcApplicationPartsAssemblyInfo.cs
+C:\Advancement\WBS_WebAPI\CurrencyExchangeManager\obj\Debug\net8.0\CurrencyExchangeManager.MvcApplicationPartsAssemblyInfo.cache
